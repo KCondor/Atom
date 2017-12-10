@@ -1,0 +1,22 @@
+risultato atteso= una funzione in c
+nome_funzione(parametri formali(puntatore a nodo lista, ))
+strutture dati fornite a priori
+tipo restituzione funzione dato a priori
+dichiarare funzioni usate e strutture dati all'interno della funzione da consegnare
+nome_funzione{
+
+int pow(int a, int b)
+{
+
+}
+
+}
+
+spazio necessario all'uso delle variabili locali all'interno della funzione
+somma del sizeof di tutte le varibili utilizzate STATICHE (USARE IL PIU SPESSO POSSIBILE VARIBILI DINAMICHE)
+Finalità dell'esrcizio= diverse soluzioni tra di loro incomparabili-> aumento delle possibilità di essere nei migliori (Ottimizzazione multiobbiettiva)
+consegna via emial entro? consegna entro la data specifica permette un debug anticipato
+obbiettivo del progetto data una lista di interi ordinati casualmente, restituire il numero di volte che appare il numero che appare più volte
+possibili soluzioni:
+ordinamento lista
+albero ordinato con indice di  
